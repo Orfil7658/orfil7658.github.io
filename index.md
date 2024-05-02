@@ -4,7 +4,7 @@
 
 *My Favorite Lab*
 
-**---**
+---
 
 Lab 1
 
