@@ -1,6 +1,6 @@
-#Orfil Nungaray Portfolio
+#Orfil Nungaray Portfolio#
 
-**##CSCP 120 Lab Work**
+**CSCP 120 Lab Work**
 
 *My Favorite Lab*
 
